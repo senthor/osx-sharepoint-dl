@@ -1,5 +1,5 @@
 # osx-sharepoint-dl
-Automator workflow to download all files from currently opened directory in Safari. Tested with SharePoint 2013 on-site (SharePoint 15), Safari 12, macOS 10.14
+Automator workflow to download all files from currently opened SharePoint directory in Safari. Tested with SharePoint 2013 on-site (SharePoint 15), Safari 12, macOS 10.14. This tries to mimic a download-all button for SharePoint 2013 under macOS.
 
 
 Installation:
